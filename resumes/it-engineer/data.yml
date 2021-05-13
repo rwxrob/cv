@@ -1,0 +1,336 @@
+Name:     Rob Muhlestein
+Role:     IT Infrastructure Engineer • Senior Software Developer • Mentor
+Email:    rob@rwx.gg
+Web:      rob.rwx.gg
+Location: Mooresville, North Carolina, USA
+
+Mission:
+  Building community and facilitating communication, research, and
+  learning through the focused application of technology.
+
+Skills:
+- Linux/UNIX Systems Architecture and Administration
+- Site Reliability Engineering (SRE)
+- Cloud Native Computing (DevOps)
+- System Software Design and Development
+- Scripted Automation and Orchestration
+- Network Protocol API Design and Development
+- Domain Language and Grammar Specification
+- Web and Proxy Server Setup and Administration
+- Enterprise Data Collection and Management
+- Structured Configuration Management and Exchange
+- Terminal User Interface (TUI) Specialization
+- Enterprise Domain and Data Modeling
+- Event-Driven Enterprise Business Patterns
+- Agile and Test Driven Development Practices
+- Multi-core Asynchronous Programming
+- Interprocess Communication Methods (IPC)
+- Core Dump and Root Cause Analysis
+- Cybersecurity Auditing and Testing
+- On-Prem Systems Hardware Administration
+- Supply Chain Integration
+- Writing and Publication
+
+Experience:
+
+- Role:     Founder • Mentor • CEO • Engineer • Developer
+  Entity:   SkilStak, Inc.
+  Started:  May 2013
+  Location: Davidson, North Carolina, USA
+  Details: 
+  - Founded and self-funded corporation to help others learn tech skills
+  - Created SkilBots, unique instructional software framework in Go
+  - Maintained Linux host in cloud for terminal-based (Bash) learning
+  - Created app for managing SkilBux and passwords in Go and PostgreSQL
+  - Administered 100s of workstations running Linux, MacOS, and Windows
+  - Setup and maintained all network operations and cybersecurity
+
+- Role:     Senior Software Developer
+  Entity:   IBM Software Division (Tivoli)
+  Started:  July 2009
+  Stopped:  February 2014
+  Location: Remote, USA
+  Details:
+  - Coded and analyzed 600K lines of C++, Java, TCL, Perl, and Python
+  - Performed low-level, root cause analysis of core dumps
+  - Executed complex, multi-host testing with Python Fabric
+  - Created advanced system performance tests in C with concurrency
+  - Coded VMWare (ESXi) proxy integration inspectors for TEM (BigFix)
+  - Became fluent with vSphere API and Relevance (BigFix) language
+  - Developed over 100 TEM security compliance checks in POSIX shell
+  - Sized and delivered log rotation migration processes in shell
+  - Provided 3rd level support for IBM Tivoli Provisioning Manager
+  - Participated in and lead Agile SCRUM meetings
+
+- Role:     Site Reliability Engineer • Senior Software Developer
+  Entity:   IBM Global Services
+  Started:  January 2000
+  Stopped:  July 2009
+  Location: Remote, USA
+  Details: 
+  - Developed high-volume, central, multi-threaded TCP/IP server
+  - Created custom GPG-based transport protocol used for 150K servers
+  - Contributed to core security compliance for 250 accounts
+  - Made universal, auto-updating UNIX/Linux endpoint in Perl 
+  - Designed PostgreSQL code and data store accepting terabytes a week
+  - Spearheaded implementation of source management and package bundling
+  - Automated backup of wiki documentation and source tree
+
+- Role:     Adjunct Instructor
+  Entity:   Rowan Cabarrus Community College 
+  Started:  June 2011
+  Stopped:  May 2013
+  Location: Remote / Salisbury, North Carolina
+  Details:
+  - Developed curriculum and videos for beginning web development course
+  - Instruct and mentor beginning web development course
+  - Guide Summer camp teens learning beginning game development
+
+- Role:     Instructor / Guide
+  Entity:   My Aloha, Paddle Sports and Fitness
+  Started:  June 2011
+  Stopped:  August 2011
+  Location: Lake Norman, North Carolina
+  Details:
+  - Instructed clients in basic stand up paddle boarding
+  - Assist with marketing, promotion, and evangelism
+  - Organized local paddle boarding meetups
+
+- Role:     Tivoli Administrator
+  Entity:   IBM Global Services
+  Started:  October 2002
+  Stopped:  July 2004
+  Location: Remote
+  Details:
+  - Managed Tivoli endpoint health achieving 99.99% in first year
+  - Developed web-based ManageNow ticket system for 20% efficiency gain
+  - Lead production Tivoli Framework installations and upgrades
+  - Created numerous administrative tools and commands
+
+- Role:     Cofounder / Developer
+  Entity:   EDTECH Retreat, LLC 
+  Started:  July 2009
+  Stopped:  May 2010
+  Location: Remote, Second Life Virtual Worlds Platform
+  Details:
+  - Founded EDTECH Retreat Community and developed EDTECH Retreat Island
+  - Provided training and educational "playground" for NCTIES 2010
+  - Lead several school district skills training workshops
+  - One of a hundred (from millions) chosen by Linden Labs for preview
+  - Consult VINE K-12 initiative integrating virtual worlds
+  - Created Hey Avatar, a Second Life and OpenSim video tutorial series
+  - Produced videos of virtual events such as VSTE 2010 fashion show
+  - Developed tools like diploma giver, poseballs, HUDs, games
+  - Regularly cited for virtual worlds perspective and training focus
+  - Featured in virtual worlds magazines and book references
+  - Interviewed on Tonight Live with Paisley Beebe
+  - Panelist on educational 1st Question with Pooky Amsterdam
+  - Designed company graphics, web, and marketing materials
+  - Managed all small business finances, marketing, and operations 
+
+- Role:     Site Reliability Engineer • Systems Administrator
+  Entity:   IBM Global Services
+  Started:  March 2000
+  Stopped:  October 2002
+  Location: Remote
+  Details:
+  - Regularly administered to on-prem server systems hardware 
+  - Achieved 99.97% uptime for 12 Sun, AIX, Linux, and SCO servers
+  - Provided secondary support for 45 Windows NT/2000 servers
+  - Conceived and implemented round-trip SMTP mail monitoring system
+  - Achieved highest customer satisfaction rating, 10 of 10
+  - Executed live upgrade of main SMTP mail relay (2000-7000)
+  - Proposed, deployed, and supported team Linux server
+  - Developed automated system performance reports
+  - Proactively discovered infected hosts behind firewall
+  - Identified and corrected faulty corporate firewall configuration
+  - Developed comprehensive tape backup procedure with monitoring
+  - Managed corporate domain name server
+  - Received "Thanks" awards from peers
+
+- Role:     Java Developer
+  Entity:   IBM Global Services
+  Started:  January 2000
+  Stopped:  March 2000
+  Location: Remote
+  Details:
+  - Recruited to do financial sector Java applications development
+  - Department disbanded during month of IBM onboarding
+  - Independently researched internal opportunities and pivoted
+
+- Role:     Full Stack Web Developer
+  Entity:   Nike, Inc. (Nike.com)
+  Started:  August 1999
+  Stopped:  January 2000
+  Location: Beaverton, Oregon
+  Details:
+  - Provided on-going development and support of Nike.com storefront
+  - Identified, isolated, and reported critical flaw in Java JVM to Sun
+  - Developed credit card and gift certificate transaction integrations
+  - Implemented staging and production web publishing process
+
+- Role:     Intranet Webmaster • Developer • Linux Administrator
+  Entity:   Nike, Inc. (Swooshnet)
+  Started:  August 1996
+  Stopped:  August 1999
+  Location: Beaverton, Oregon
+  Details:
+  - Created SwooshNet, Nike's first intranet web portal 
+  - One of two to receive company-wide There is No Finish Line award
+  - Saved over $150k in phone directory costs by putting on web
+  - Chosen to cover 1998 Nagano Winter Olympics with on-site reporting
+  - Developed 'Knight-line', live web chat with CEO about labor issues
+  - Conducted live chat with video with John McEnroe and Marcelo Rios
+  - Developed custom secure web app for senior management presentations
+  - Led Y2K project to successful completion $20k under budget on time
+  - Presented new tech to more than 500 technologists at regional summit
+  - Received best commuter award for longest regular commute by bike
+  - Active Hood-to-Coast relay runner and Team Nike Endorphin triathlete
+
+- Role:    Full Stack Web Developer
+  Entity:  Self (Independent Contractor)
+  Started: September 1995
+  Stopped: February 1997
+  Location: Gresham, Oregon
+  Details:
+  - Created currency converter web app with world bank integration
+  - Implemented password authentication for local web marketing firm
+  - Developed web interface to product database for regional vendor
+  - Provided web design consulting to regional advertising firm
+
+- Role:     Full Stack Web Developer • Presenter
+  Entity:   Teleport Internet Services 
+  Started:  May 1995
+  Stopped:  August 1996
+  Location: Portland, Oregon
+  Details:
+  - Created PageWeaver, world's first web-based site authoring app
+  - Automated configuration for more than 150 Apache virtual web servers
+  - Developed web interface to existing help-desk support system
+  - Authored and maintained server-side scripting library for users
+  - Moderated 3000+ customers on `teleport.support.cgi` mailing list
+  - Gave 'Creating Dynamic Web Sites' workshop at Internet Exposition
+  - Implemented custom web site search engine
+
+- Role:     Director of Sales • Full Stack Web Developer
+  Entity:   Fibernet Internet Services
+  Started:  October 1994
+  Stopped:  May 1995
+  Location: Provo, Utah
+  Details:
+  - Designed, developed, and maintained corporate web site and clients'
+  - Created first public form processing app (`fb.pl`) used by thousands
+  - Trained corporate teams and executives on emerging Web and Internet
+  - Actively raised visibility of company through regular networking
+
+- Role:     Cruise Director / Interpreter / Technologist / Sales Person 
+  Entity:   AmeriRuss Cruise Company
+  Started:  May 1992
+  Stopped:  January 1995
+  Location: Provo, Utah / Moscow & St. Petersburg, Russia / Ukraine
+  Details:
+  - Supervised and interpreted tour of ATT facilities for 37 executives
+  - Directed more than 30 cruises on Volga and Dnepr rivers
+  - Led dozens of tours of Hermitage museum in St. Petersburg, Russia
+  - Organized train travel, lodging, finances, and logistics for groups
+  - Negotiated sensitive issues in volatile emerging business environment
+  - Conducted business workshops for Russian executives and passengers
+  - Mediated Russian-American discussion groups and culture exchanges
+  - Conducted English and Russian language classes on-ship
+  - Replaced international faxes with email saving thousands
+
+- Role:     Russian Language Lab Instructor 
+  Entity:   Brigham Young University, College of Humanities
+  Started:  January 1993
+  Stopped:  June 1994
+  Location: Provo, Utah
+  Details:
+  - Conducted lively Russian learning language focused on discussion
+  - Administered spoken language assessments
+  - Selected from dozens of applicants
+
+- Role:     French Language Lab Instructor
+  Entity:   Computer Lab Assistant
+  Started:  August 1991
+  Stopped:  June 1994
+  Location: Provo, Utah
+  Details:
+  - Assisted students with state-of-the-art language learning technology
+  - Managed sound and video multimedia learning lab
+  - Developed language training tutorials
+
+- Role:     Owner and Developer
+  Entity:   Sterling Scholastic Aids
+  Started:  January 1992
+  Stopped:  August 1993
+  Location: Provo, Utah
+  Details:
+  - Formed company to fill need for course-specific flashcards
+  - Developed flashcard printing and tutorial application
+  - Partnered with professors and course creators sell from bookstore
+  - Innovated low-cost printing process using local university services
+
+- Role:     Certified Whitewater River Guide / Mountain Bike Tour Guide
+  Entity:   Worldwide River Expeditions
+  Started:  April 1992
+  Stopped:  August 1992 
+  Location: Moab, Utah / Salmon River, Idaho
+  Details:
+  - Conducted dozens of river expeditions
+  - Designated expedition leader on several trips
+  - Executed complicated trip preparation logistics and setup
+  - Certified and fully trained in CPR and advance first aid
+  - Personally rescued one errant kayaker injured after choosing poorly
+  - Led bicycle tours of historic White Rim Trail in Moab Utah
+  - Provided mechanical and logistical support for mountain bike events 
+
+- Role:     Mechanic / Sales Person
+  Entity:   Reed's Bicycles
+  Started:  May 1991
+  Stopped:  April 1992
+  Location: Orem, Utah
+  Details:
+
+- Role:     Software Illustrator
+  Entity:   Taras Linguistic Systems
+  Started:  May 1991
+  Stopped:  August 1991
+  Location: Provo, Utah
+  Details:
+
+- Role:     Trainer / Language and Culture Instructor / Interpreter
+  Entity:   LDS Missionary Training Center
+  Started:  June 1989
+  Stopped:  August 1990
+  Location: Provo, Utah
+  Details:
+
+Projects:
+
+- Home (on prem) Kubernetes cluster with custom cloud native apps
+- Twitch/YouTube Live Stream Tech Community (rwxrob.live, rwx.gg)
+- Parsing Expression Grammar Notation (pegn.dev)
+- Association of Federated Knowledge Workers (afk.works)
+- Knowledge Exchange Grid (keg.network)
+
+Education:
+
+- 'Bachelors of Arts, Russian, Brigham Young University, 1994, 3.6 GPA (4.0=A)'
+
+Languages:
+- American English (native)
+- Russian (spoken and written)
+- French (spoken and written)
+
+Keywords: [Linux, Ubuntu, Debian, Red Hat (CentOS), Kubernetes (k3s),
+Containers (Docker), Virtual Machines, VMWare, Virtual Box, k3os,
+RancherOS, Raspberry Pi, Arduino, UNIX, Solaris, AIX, Terminal (TUI),
+Command Line (CLI), Secure Shell (SSH), File Systems (SAN/NAS), TCP/IP,
+UDP, Sockets, HTTP, SMTP, IMAP, POP3, LDAP, Samba, SFTP, DNS, TLS,
+Apache, Nginx, Go (golang), Go Templates, Perl, Python, Bash, POSIX
+Shell, Expect (TCL), Fabric (FabFiles), C, gdb, gcc, strace, HTML, CSS,
+JavaScript, JAMStack, Websockets, NodeJS/NPM, PEGN, ABNF, EBNF, SQL,
+PostgreSQL, Redis, UML, ERD, YAML, JSON, XML, TOML, Markdown, Pandoc,
+GraphQL, REST, gRPC, ProtoBuf, curl, nmap, Oauth2, Vim/Vi, VSCode, TMUX,
+screen, Lynx, w3m, Git, GitHub, GitLab, Gitea, DigitalOcean, AWS, IRC,
+Slack, Discord, Twitch, YouTube, Twitter]

@@ -1,0 +1,724 @@
+Name:     Rob Muhlestein
+Location: Mooresville, North Carolina, USA
+
+Mission:
+  Building community and facilitating communication, research, and
+  learning through the focused application of technology.
+
+Summary: |
+  Professional Trainer and Mentor • Entrepreneur • CTO • Live Streamer •
+  Community Builder • Site Reliability and DevOps Engineer • Terminal UI
+  Developer • Linux Advocate • Senior Software Engineer (Go, Perl,
+  Shell, Python, C) • Cloud Native Platform Developer • Presenter
+  • Writer • Autodidact
+
+Contact: 
+  Email:   rob@rwx.gg
+  Web:     rob.rwx.gg
+  Twitter: rwxrob
+  GitHub:  rwxrob
+  YouTube: rwxrob
+  Twitch:  rwxrob
+
+Languages:
+- American English (native)
+- Russian (spoken and written)
+- French (spoken and written)
+
+Education:
+
+- Entity:     Brigham Young University
+  Location:   Provo, Utah
+  Credential: Bachelor of Arts Degree, Russian
+  GPA:        "3.6 (4.0=A)"
+  Started:    1989
+  Stopped:    1994
+  Details:
+  - Financed 80% myself working three jobs and own company
+  - Most core liberal arts courses were Honors
+  - Close to minor in Computers and Linguistics
+  - Close to minor in French
+  - Beginning Computer Science courses
+  - Competitive cycling club
+  - Russian Choir
+
+- Entity:     Cyprus High School
+  Location:   Magna, Utah
+  Credential: Diploma
+  GPA:        "3.0 (4.0=A)"
+  Started:    1983
+  Stopped:    1986
+  Details:
+  - Academic focus on Drafting, Calculus and French
+  - Personally and privately selected for state-wide leadership camp
+  - Elected to Executive Council as Activities Chairman
+  - Lead organization of all assemblies and school activities
+  - Booked state governor for Homecoming keynote
+  - Tried out and made into Madrigal A Capella Choir 
+  - Tried out and made into Percussion Ensemble
+  - Interested in dancing, skating, cycling, tennis, soccer, running
+  - Top five dead lift record for school (per body weight)
+
+- Entity:     Brockbank Junior High School
+  Location:   Magna, Utah
+  Started:    1983 
+  Stopped:    1986
+  Details:
+  - Only student allowed before-school access to only computer in school
+  - Picked for "Gifted and Talented" program for accelerated students
+  - Struggled with repeated bullying, beatings, and social awkwardness
+  - Introduced recess group to a "new" game called "Soccer"
+  - Avid Dungeons and Dragons player, wrote several original campaigns
+  - Wrote several programs in Basic including games and DnD utilities
+  - Member of school choir
+
+Employment:
+
+- Role:     Founder / Mentor / Developer / CEO
+  Entity:   SkilStak, Inc.
+  Started:  May 2013
+  Location: Davidson, North Carolina
+  Details: 
+  - Founded and self-funded corporation to help others learn tech skills
+  - Mentored 100s and placed dozens in key schools, internships, jobs
+  - Designed and developed autodidactic, project-driven curriculum 
+  - Live streamed thousands of hours of free video content
+  - Created SkilBots, unique instructional software framework in Go
+  - Trained and managed team of teaching assistants selected from members
+  - Published several opensource contributions on GitHub and GitLab
+  - Maintained Linux host in cloud for terminal-based (Bash) learning
+  - Ported parts of Code.org to Python framework for better learning
+  - Created app for managing SkilBux and passwords in Go and PostgreSQL
+  - Administered 100s of workstations running Linux, MacOS, and Windows
+  - Setup and maintained all network operations and cybersecurity
+  - Successfully managed all business affairs with minimal assistance
+  - Designed company graphics, web, van wrap, and marketing materials
+
+- Role:     Instructor (Computer Programming)
+  Entity:   Woodlawn Private School
+  Started:  August 2018 
+  Stopped:  June 2019 
+  Location: Mooresville, North Carolina
+  Details:
+  - Mentored and facilitated the learning of 40+ students
+  - Created original project-based curriculum for web development
+  - Adopted learning-lab approach, leading two 50-minute labs per week
+  - Addressed the individual needs of both beginners and advanced
+
+- Role:     Senior Software Engineer
+  Entity:   IBM Software Division (Tivoli)
+  Started:  July 2009
+  Stopped:  February 2014
+  Location: Remote, USA
+  Details:
+  - Provided 3rd level support for IBM Tivoli Provisioning Manager
+  - Coded and analyzed 600K lines of C++, Java, TCL, Perl, and Python
+  - Performed low-level, root cause analysis of core dumps
+  - Executed complex, multi-host testing with Python Fabric
+  - Created advanced system performance tests in C with concurrency
+  - Coded VMWare (ESXi) proxy integration inspectors for TEM (BigFix)
+  - Became fluent with vSphere API and Relevance (BigFix) language
+  - Developed over 100 TEM (BigFix) security compliance checks in shell
+  - Sized and delivered log rotation migration processes in shell
+  - Participated in and lead Agile SCRUM meetings
+
+- Role:     Site Reliability Engineer / Senior Software Engineer
+  Entity:   IBM Global Services
+  Started:  January 2000
+  Stopped:  July 2009
+  Location: Remote, USA
+  Details: 
+  - Developed high-volume central multi-threaded TCP/IP server
+  - Created custom GPG-based transport protocol used for 52K servers
+  - Contributed to core security compliance for 250 accounts
+  - Made universal, auto-updating UNIX/Linux endpoint in Perl 
+  - Designed PostgreSQL code and data store accepting terabytes a week
+  - Spearheaded implementation of source management and package bundling
+  - Automated backup of wiki documentation and source tree
+  - Mentored and lead team in adoption of industry SRE practices
+
+- Role:     Adjunct Instructor
+  Entity:   Rowan Cabarrus Community College 
+  Started:  June 2011
+  Stopped:  May 2013
+  Location: Remote / Salisbury, North Carolina
+  Details:
+  - Developed curriculum and videos for beginning web development course
+  - Instruct and mentor beginning web development course
+  - Guide Summer camp teens learning beginning game development
+
+- Role:     Instructor / Guide
+  Entity:   My Aloha, Paddle Sports and Fitness
+  Started:  June 2011
+  Stopped:  August 2011
+  Location: Lake Norman, North Carolina
+  Details:
+  - Instructed clients in basic stand up paddle boarding
+  - Assist with marketing, promotion, and evangelism
+  - Organized local paddle boarding meetups
+
+- Role:     Cofounder / Developer
+  Entity:   EDTECH Retreat, LLC 
+  Started:  July 2009
+  Stopped:  May 2010
+  Location: Remote, Second Life Virtual Worlds Platform
+  Details:
+  - Founded EDTECH Retreat Community and developed EDTECH Retreat Island
+  - Provided training and educational "playground" for NCTIES 2010
+  - Lead several school district skills training workshops
+  - One of a hundred (from millions) chosen by Linden Labs for preview
+  - Consult VINE K-12 initiative integrating virtual worlds
+  - Created Hey Avatar, a Second Life and OpenSim video tutorial series
+  - Produced videos of virtual events such as VSTE 2010 fashion show
+  - Developed tools like diploma giver, poseballs, HUDs, games
+  - Regularly cited for virtual worlds perspective and training focus
+  - Featured in virtual worlds magazines and book references
+  - Interviewed on Tonight Live with Paisley Beebe
+  - Panelist on educational 1st Question with Pooky Amsterdam
+  - Designed company graphics, web, and marketing materials
+  - Managed all small business finances, marketing, and operations 
+
+- Role:     Tivoli Administrator
+  Entity:   IBM Global Services
+  Started:  October 2002
+  Stopped:  July 2004
+  Location: Remote
+  Details:
+  - Managed Tivoli endpoint health achieving 99% in first year
+  - Developed web-based ManageNow ticket system for 20% efficiency gain
+  - Lead production Tivoli Framework installations and upgrades
+  - Created numerous administrative tools and commands
+
+- Role:     Site Reliability Engineer / Systems Administrator
+  Entity:   IBM Global Services
+  Started:  March 2000
+  Stopped:  October 2002
+  Location: Remote
+  Details:
+  - Achieved 99.97% uptime for 12 Sun, AIX, Linux, and SCO servers
+  - Provided secondary support for 45 Windows NT/2000 servers
+  - Conceived and implemented round-trip SMTP mail monitoring system
+  - Achieved highest customer satisfaction rating, 10 of 10
+  - Executed live upgrade of main SMTP mail relay (2000-7000)
+  - Proposed, deployed, and supported team Linux server
+  - Developed automated system performance reports
+  - Organized and gave team Linux training, received Thanks award
+  - Proactively discovered infected hosts behind firewall
+  - Identified and corrected faulty corporate firewall configuration
+  - Developed comprehensive tape backup procedure with monitoring
+  - Managed the corporate domain name server
+
+- Role:     Java Developer
+  Entity:   IBM Global Services
+  Started:  January 2000
+  Stopped:  March 2000
+  Location: Remote
+  Details:
+  - Recruited to do financial sector Java applications development
+  - Department disbanded during month of IBM onboarding
+  - Independently researched internal opportunities and pivoted
+
+- Role:     Full Stack Web Developer
+  Entity:   Nike, Inc. (Nike.com)
+  Started:  August 1999
+  Stopped:  January 2000
+  Location: Beaverton, Oregon
+  Details:
+  - Provided on-going development and support of Nike.com storefront
+  - Identified, isolated, and reported critical flaw in Java JVM to Sun
+  - Developed credit card and gift certificate transaction integrations
+  - Implemented staging and production web publishing process
+
+- Role:     Webmaster / Full Stack Web Developer, Lead / Evangelist
+  Entity:   Nike, Inc. (Swooshnet Intranet)
+  Started:  August 1996
+  Stopped:  August 1999
+  Location: Beaverton, Oregon
+  Details: 
+  - Created SwooshNet, Nike's first intranet web portal 
+  - One of two to receive company-wide There is No Finish Line award
+  - Saved over $150k in phone directory costs by putting on web
+  - Chosen to cover 1998 Nagano Winter Olympics with on-site reporting
+  - Developed 'Knight-line', live web chat with CEO about labor issues
+  - Conducted live chat with video with John McEnroe and Marcelo Rios
+  - Developed custom secure web app for senior management presentations
+  - Led Y2K project to successful completion $20k under budget on time
+  - Presented new tech to more than 500 technologists at regional summit
+  - Received best commuter award for longest regular commute by bike
+  - Active Hood-to-Coast relay runner and Team Nike Endorphin triathlete
+
+- Role:    Full Stack Web Developer
+  Entity:  Self (Independent Contractor)
+  Started: September 1995
+  Stopped: February 1997
+  Details:
+  - Created currency converter web app with world bank integration
+  - Implemented password authentication for local web marketing firm
+  - Developed web interface to product database for regional vendor
+  - Provided web design consulting to regional advertising firm
+
+- Role:     Full Stack Web Developer / Presenter
+  Entity:   Teleport Internet Services 
+  Started:  May 1995
+  Stopped:  August 1996
+  Location: Portland, Oregon
+  Details:
+  - Created PageWeaver, world's first web-based site authoring app
+  - Automated configuration for more than 150 Apache virtual web servers
+  - Developed web interface to existing help-desk support system
+  - Authored and maintained server-side scripting library for users
+  - Moderated 3000+ customers on `teleport.support.cgi` mailing list
+  - Gave 'Creating Dynamic Web Sites' workshop at Internet Exposition
+  - Implemented custom web site search engine
+
+- Role:     Director of Sales / Full Stack Web Developer
+  Entity:   Fibernet Internet Services
+  Started:  October 1994
+  Stopped:  May 1995
+  Location: Provo, Utah
+  Details:
+  - Designed, developed, and maintained corporate web site and clients'
+  - Created first public form processing app (`fb.pl`) used by thousands
+  - Trained corporate teams and executives on emerging Web and Internet
+  - Actively raised visibility of company through regular networking
+
+- Role:     Cruise Director / Interpreter / Technologist / Sales Person 
+  Entity:   AmeriRuss Cruise Company
+  Started:  May 1992
+  Stopped:  January 1995
+  Location: Provo, Utah / Moscow & St. Petersburg, Russia / Ukraine
+  Details:
+  - Supervised and interpreted tour of ATT facilities for 37 executives
+  - Directed more than 30 cruises on Volga and Dnepr rivers
+  - Led dozens of tours of Hermitage museum in St. Petersburg, Russia
+  - Organized train travel, lodging, finances, and logistics for groups
+  - Negotiated sensitive issues in volatile emerging business environment
+  - Conducted business workshops for Russian executives and passengers
+  - Mediated Russian-American discussion groups and culture exchanges
+  - Conducted English and Russian language classes on-ship
+  - Replaced international faxes with email saving thousands
+
+- Role:     Russian Language Lab Instructor 
+  Entity:   Brigham Young University, College of Humanities
+  Started:  January 1993
+  Stopped:  June 1994
+  Location: Provo, Utah
+  Details:
+  - Conducted lively Russian learning language focused on discussion
+  - Administered spoken language assessments
+  - Selected from dozens of applicants
+
+- Role:     French Language Lab Instructor
+  Entity:   Computer Lab Assistant
+  Started:  August 1991
+  Stopped:  June 1994
+  Location: Provo, Utah
+  Details:
+  - Assisted students with state-of-the-art language learning technology
+  - Managed sound and video multimedia learning lab
+  - Developed language training tutorials
+
+- Role:     Owner and Developer
+  Entity:   Sterling Scholastic Aids
+  Started:  January 1992
+  Stopped:  August 1993
+  Location: Provo, Utah
+  Details:
+  - Formed company to fill need for course-specific flashcards
+  - Developed flashcard printing and tutorial application
+  - Partnered with professors and course creators sell from bookstore
+  - Innovated low-cost printing process using local university services
+
+- Role:     Certified Whitewater River Guide / Mountain Bike Tour Guide
+  Entity:   Worldwide River Expeditions
+  Started:  April 1992
+  Stopped:  August 1992 
+  Location: Moab, Utah / Salmon River, Idaho
+  Details:
+  - Conducted dozens of river expeditions
+  - Designated expedition leader on several trips
+  - Executed complicated trip preparation logistics and setup
+  - Certified and fully trained in CPR and advance first aid
+  - Personally rescued one errant kayaker injured after choosing poorly
+  - Led bicycle tours of historic White Rim Trail in Moab Utah
+  - Provided mechanical and logistical support for mountain bike events 
+
+- Role:     Mechanic / Sales Person
+  Entity:   Reed's Bicycles
+  Started:  May 1991
+  Stopped:  April 1992
+  Location: Orem, Utah
+  Details:
+  - Built bicycles from base components, including wheel sets
+  - Sold and repaired bicycles
+  - Advised customers on bicycle commuting and local rides
+
+- Role:     Software Illustrator
+  Entity:   Taras Linguistic Systems
+  Started:  May 1991
+  Stopped:  August 1991
+  Location: Provo, Utah
+  Details:
+  - Designed main icons for foreign language software tutorial package
+  - Provided scanned art cleanup
+
+- Role:     Trainer / Language and Culture Instructor / Interpreter
+  Entity:   LDS Missionary Training Center
+  Started:  June 1989
+  Stopped:  August 1990
+  Location: Provo, Utah
+  Details:
+  - Trained hundreds in language, teaching, and interpersonal skills
+  - Promoted to train new instructors in language teaching methodology
+  - Performed real-time interpretation for French natives
+  - Conducted culture training workshops for groups of 50+
+
+- Role:     Clerk / Stocker
+  Entity:   Kent's IGA 
+  Started:  May 1985
+  Stopped:  April 1987
+  Location: West Valley City, Utah
+  Details:
+  - Did a little of everything in a small-town-ish grocery store
+  - Loved getting to know regulars
+
+- Role:     Secondary Cook / Delivery Person
+  Entity:   The Pizza Stop
+  Started:  March 1983
+  Stopped:  April 1985
+  Location: Magna, Utah
+  Details:
+  - Made and delivered New York style pizza at local hot-spot
+
+- Role:     Mail Room Attendant
+  Entity:   Zion's Bank
+  Started:  June 1984
+  Stopped:  September 1984
+  Location: Salt Lake City, Utah
+  Details:
+  - Sorted mail and delivered it to the post office 
+
+Volunteer:
+
+- Role:     Advisory Committee Invitee
+  Entity:   Rowan Cabarrus Community College
+  Started:  January 2010
+  Stopped:  May 2013 
+  Location: Kannapolis, North Carolina
+  Details:
+  - Invited to attend committee meetings shaping policy and direction
+  - Received special event invite from college President and leadership
+
+- Role:     Elective Instructor (Computer Programming) / Advisor
+  Entity:   Community School of Davidson
+  Started:  August 2015
+  Stopped:  December 2015
+  Location: Davidson, North Carolina
+  Details:
+  - Lead and mentor student leaders as they instruct 25 students
+  - Advised school faculty on use of Linux operating system
+
+- Role:     Circles Ally (Volunteer Social Worker)
+  Entity:   Lake Norman Christian Mission
+  Started:  July 2010
+  Stopped:  March 2012
+  Location: Mooresville, North Carolina
+  Details:
+  - Trained as Bridges Out of Poverty and Circles Initiative Ally
+  - Provided assistance and long-term mentoring to victims of poverty
+
+- Role:     Scout Master / Assistant Scout Master
+  Entity:   Boy Scouts of America
+  Started:  2000
+  Stopped:  2008
+  Details:
+  - Lead and instructed hundreds of Boy Scouts (including sons)
+  - Organized dozens of camps for all levels
+  - Responded to scouts' requests for computer training
+
+- Role:     Docent
+  Entity:   International Society for Technology in Education
+  Started:  August 2009
+  Stopped:  May 2010
+  Location: Remote, Second Life Virtual Worlds Platform
+  Details:
+  - Welcome and provide regular guidance and assistance to educators
+  - Act as liaison to connecting people with mutual interest
+  - Assist with virtual world design, development, and scripting
+  - Directed and created video machinima of events
+  - Taught virtual skills workshops
+
+- Role:     Founder / Mentor / Evangelist
+  Entity:   IBM Second Life Mentor Community
+  Started:  February 2007
+  Stopped:  May 2010
+  Location: Remote, Second Life Virtual Worlds Platform
+  Details:
+  - Organized more than 80 volunteers into community
+  - Completed IBM (general) Mentor training certification
+  - Trained hundred of colleagues with Second Life skills
+  - Lead panel broadcast discussions and social events
+  - Assisted in build of IBM Mentors clubhouse pier
+  - Created and maintained community portal and wikis
+  - Produced training other video content
+
+- Role:     Volunteer Representative / Assistant to the President 
+  Entity:   Church of Jesus Christ of Latter-Day Saints
+  Started:  May 1987
+  Stopped:  May 1989
+  Location: Martinique / Barbados
+  Details:
+  - Motivated and managed nine district leaders and 68 missionaries
+  - Compiled weekly mission progress statistics
+  - Supervised all mission visa affairs
+  - Published historical log, weekly written reports, and newsletter
+  - Supervised and assisted French to English mission translations
+  - Exercised extreme empathy and development of interpersonal skills
+
+Accolades:
+
+- Name:  Eva Feucht
+  Title: Director, Park Scholarships
+  Text:  |
+    Congratulations! On behalf of North Carolina State University, I am
+    pleased to announce that [your community member] has been named
+    a Finalist for Park Scholarships, one of the most prestigious merit
+    scholarship programs in the nation. Thanks in part to your
+    thoughtful recommendation, our Selection Committee was able to gain
+    valuable insight into this student's exceptional qualifications. 
+
+- Name:  Justine Okerson and Ann Smith 
+  Title: Scholar Selection Team
+  Text:  |
+    We are pleased to inform you that [your community member] is
+    a finalist for the Morehead-Cain, the first merit scholarship
+    program established in the United States.
+
+- Name:  Brent S. Clark
+  Title: Site Reliability Engineer, HomeAdvisor
+  Note:  Sent "Thanks Award" for helping learn Linux
+  Text:  |
+    Robert is a very skilled programmer. His ability to come up with
+    solutions to problems enables them to be resolved faster.  I worked
+    with him as a Systems Administrator. He was able to use his skills to
+    automate many of the processes that made work much easier for the rest
+    of the team. His zeal for coding prompted other team members to
+    strengthen and/or learn programming skills.
+
+- Name: Anonymous
+  Note: Started as "junior" developer for $100k annual salary
+  Text: |
+    Rob helped me get out of retail and get work at a major software
+    company, using modern tools and technology. Along the way, I worked
+    on my own projects, learned how to use the linux command line like
+    a pro, and just learned a lot in general. Rob's mentorship has
+    definitely changed my life for the better!
+
+- Name: Anonymous
+  Note: Comment from web site
+  Text: |
+    Just wanted to say your website has been hugely useful to me and
+    a few of my peers in scientific computing, who often need to use
+    terminal but are more focused on science than coding practices.
+    Please keep on adding to your website. I will definitely refer my
+    colleagues to it going forward :)
+
+- Name: Anonymous
+  Note: Comment from web site
+  Text: |
+    Good site you have here.. It's difficult to find high quality
+    writing like yours nowadays. I really appreciate people like you!
+    Take care!!
+
+- Name: Ryan Brink
+  Text: |
+    I want to thank you for all of the amazing information & resources
+    that are available here on your site.  It is always a pleasure when
+    I come here and see a new blog post -- even (especially) when the
+    subject matter goes over my head -- it shows how much room I have to
+    grow.)  I have been visiting your site semi-frequently throughout
+    the year.  It is amazing and encouraging to see how passionate you
+    are about getting others to understand technology on a deeper level.
+
+    I am a web developer who did not take the traditional college path
+    to get where I am (boot camp grad, please don't hold that against
+    me). When I visit SkilStak I view it as being like a path of
+    breadcrumbs leading me to the things that are important and that
+    I should be focusing my time & effort on learning.  You have my
+    gratitude for so freely sharing such a vast amount of info, often in
+    areas that reveal to me where my tech "blind spots" are so that
+    I may delve deeper.  My goal for 2020 is to have my personal website
+    up & running.  SkilStak has been a big inspiration on my finally
+    putting in some work towards that goal.
+
+    Thank you for creating this amazing space for those of us who would
+    otherwise have never met you in person.  Keep up the incredible
+    work!
+
+    PS - You may recall that we had a brief Twitter exchange several
+    months ago.  I have been learning to do more on the terminal than
+    ever before, but I am still hoping for and looking forward to an
+    eventual Terminal Master course!  Until then I will be following the
+    book you recommend here (Learning the Linux Command Line, complete
+    with Bash v4 - I installed Ubuntu last week and I can't wait to
+    become a true terminal master!)
+
+- Name: Alastair
+  Text:
+    Hi there. Just read you bad parent blog piece. You lost skilstak in
+    your medium/twitter handle so I thought I’d see what it is. Broken
+    by the looks of it. Good in you for becoming an educator. It’s not
+    easy but I hope it’s rewarding.
+
+- Name: Anonymous
+  Note: Parent of a mentored community member
+  Text: |
+    Hi Rob - No reason for my email other than to say thank you for
+    everything you do for [our son]! He absolutely loves coding and his
+    hour with you is his favorite of the week. He spends his free time
+    working through the problems you help him come up with and he knows
+    what he wants to do with his life. We are so happy he has found
+    something he loves and just wanted to say thanks!"
+
+- Name: Gabe Miller
+  Note: Employed at 16 as developer for solar energy company
+  Text: |
+    I have been with SkilStak for about 6 years now and it has been one
+    of the most valuable and impactful experiences in my life. I feel
+    that Mr. Rob has trained me extremely well and I feel prepared for
+    my future in programming and engineering. Mr. Rob has done so many
+    things for me over the years and caused me to get a extremely
+    valuable payed internship before I even finished High School, not to
+    mention multiple job offers with 6 digit salaries. I highly
+    recommend SkilStak for anyone who is interested in programming and
+    wants to be prepared for a career in programming and technology. It
+    has been more valuable than any other school of any kind that I have
+    been to. Mr. Rob and SkilStak taught me so much and prepared me for
+    even more. I wouldn't trade my experience there for anything in the
+    world.
+
+- Name: Anonymous
+  Note: Solar energy company that employed Gabe Miller 
+  Text: |
+    Rob, you referred Gabe Miller to us last year at ... he's been amazing!
+
+- Name: Anonymous
+  Note: Member of private mentored community
+  Text: |
+    Thank you so much for introducing me to coding! I have learned so
+    much. I love being able to create something anyone can enjoy. I hope
+    to see you in the Fall!"
+
+- Name: Bob Theisen 
+  Title: Network Engineering Instructor, Mitchel Community College
+  Text: |
+    I just want to encourage you to keep teaching. You’re gifts aren't
+    just technical. You are making more of an impact then you know.
+
+- Name: Anonymous
+  Note: Parent of private mentored community member
+  Text: |
+    I just wanted to let you know that [my son] has really been enjoying
+    camp this week. He talks non-stop about it when he gets home. He’s
+    so excited about what he’s doing!! He just told me this has been the
+    best camp ever because they are learning and then get to play with
+    what what they learned. 😀
+
+- Name: Mary Muchane
+  Note: Mother of private community member accepted to NCSSM
+  Text: |
+    Mur and I really, really believe in what Skilstak is about and what
+    you are doing and have done for dozens of young boys and girls.
+    Beyond the coding and the career preparation, Skilstak provides a ‘
+    place‘ for them and gives them the courage to wear their nerd badges
+    proudly.  I don’t think it’s hyperbole to say that the impact of
+    Skilstak will last throughout their lives regardless of the
+    trajectory each takes.
+
+- Name: Jennifer Miller
+  Note: Parent of private mentored community member
+  Text: |
+    My son attended the Minecraft camp today and is hooked! He is
+    registered for a coding class now every week! He just keeps thanking
+    us for finding this ‘cool’ place! I highly recommend for kids who
+    love technology and want to learn more!
+
+- Name: Bella
+  Note: Private mentored community member
+  Text: |
+    I have enjoyed my time learning at Skilstak! My favorite thing is
+    that we are always changing and learning the newest available
+    material for web development. Most of my girl friends don’t like to
+    talk about code, but it is because they don’t understand it. I have
+    found other coding girls at Skilstak, I enjoy figuring out
+    assignments together with them and also working at my own pace.
+
+- Name: Joni Dunn
+  Note: Parent of private mentored community member 
+  Text: 
+    Rob does a fantastic job of engaging and teaching the kids without
+    them even knowing they‘re learning. :) We’ll be repeat customers
+    every time my grandson comes for a visit!
+
+- Name: Dena Miller 
+  Note: Mother of Gabe Miller
+  Text: 
+    My son has been attending SkilStak for almost four years now. He
+    started out in Code and Play and has progressed to Pro, gaining
+    invaluable coding skills and knowledge every step of the way! In
+    addition to classes, he has served as a TA or teacher’s assistant
+    and aspires to be an instructor as his part-time job during his high
+    school years. He has not only learned several coding languages, but
+    has acquired a valuable work ethic and sense of community and active
+    citizenship. I have no doubt, that he truly has discovered his
+    lifelong passion and career path while attending classes at
+    SkilStak.  I am extremely grateful to Rob for providing my son with
+    his incredible coding abilities and life skills, and more
+    importantly, for serving as a mentor and positive male role model to
+    an impressionable teenager! I would wholeheartedly recommend the
+    SkilStak program as an extracurricular activity to any future coders
+    and their parents!
+
+- Name: Sandy M.
+  Note: \"Happy Mom\" of private mentored community member
+  Text: |
+    Our quiet, unexcitable 11 year old son has been taking classes with
+    Rob and his crew at Skilstak going on 3 1/2 years. These classes are
+    a challenge that school can not provide. He says that they are just
+    fun and he likes creating on the computer. But we see much more! We
+    have seen him become more creative and analytical, confident,
+    independent, and self-sufficient. Mr. Rob has opened his eyes to
+    future job possibilities and the importance of professionalism and
+    good character. As well as legitimate computer programming
+    instruction. He can’t wait to go to the classes!
+
+    These classes are more than standard ‘summer camp’ computer classes.
+    Students are expected to actually learn different languages and
+    create programs. They will get certified at their own pace. And the
+    classes are challenging. We highly recommend Skilstak to anyone
+    wanting to do more than ‘play on a computer’.
+
+- Name: Randy
+  Note: Message from Livestream Viewer
+  Text: |
+    Hey Rob, I’m a fairly new viewer and wanted to say thank you for the
+    work you are doing to build your knowledge tools and the community
+    around it.  But also for the free conversations and teachings you
+    are providing on YouTube.  I agree 100% with your comments about
+    Facebook and Google and think your knowledge projects are
+    fascinating.  But I also identity with your recent wisdom  about
+    mentoring and teaching.  I am 45 years old, graduated with a CS
+    degree in 2002, but because of various reasons I did not do well in
+    college and didn’t pursue programming until about 6 years ago.
+    Through that pursuit I found a job which lead to a second job which
+    had me working on projects with zero documentation with languages
+    I did not know.   I struggled but eventually figured out what
+    I needed to get the work done, fix bugs, and add features.  That was
+    until I burned out February of last year.  Since then I’ve been on
+    my own path of self learning and healing.
+
+    So when I first heard you talk about what an autodidact was
+    I realized that I’ve already been doing that because I’ve had too.
+    And that I am being one now.  Your conversations about all this has
+    given me context and validation.  So once again thank you for
+    putting all this out there for people like me to see.

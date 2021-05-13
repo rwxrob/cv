@@ -1,0 +1,35 @@
+<style>
+.employer {
+  padding-left: 2rem;
+  margin-bottom: 1rem;
+}
+.employer .role {
+  display: flex;
+  justify-content: space-between;
+}
+.employer .role .dates {
+  font-size: .85rem;
+  color: #777;
+}
+</style>
+
+<div id=experience>
+<h2>Experience</h2>
+{{ range .Experience }}
+<div class=employer>
+
+<div class=role>
+  <div><strong>{{.Role}}</strong></div>
+  <div class=dates>{{.Started}} - {{if .Stopped}}{{.Stopped}}{{else}}Present{{end}}</div>
+</div>
+<div class=entity>{{.Entity}} <span class=loc>({{.Location}})</span></div>
+</div>
+
+<ul class=deets>
+{{ range .Details }}
+<li class=deet>{{- . -}}</li>
+{{end}}
+</ul>
+
+</div>
+{{end}}

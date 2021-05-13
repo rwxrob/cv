@@ -1,0 +1,28 @@
+<style>
+#name {
+  text-shadow: 0 0 .2rem #ddd;
+  font-weight: 900;
+  font-size: 3rem;
+	font-family: SpyAgency, var(--font);
+  margin-bottom: 0;
+}
+#role {
+  font-size:1.22rem;
+  font-weight: 900;
+  font-variant: small-caps;
+  margin-top: 0;
+}
+#about {
+  display: grid;
+  grid-template-areas: "name" "role " "contact";
+}
+#contact {
+  font-size:1.22rem;
+}
+</style>
+
+<div id=about>
+<h1 id=name style='grid-area: name'>{{.Name}}</h1>
+<div id=role style='grid-area: role'>{{.Role}}</div>
+<div id=contact style='grid-area: contact'>{{.Email}} • {{.Web}}</div>
+</div>

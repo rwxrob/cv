@@ -1,0 +1,46 @@
+
+#name {
+  text-shadow: 0 0 .3rem #ddd;
+  font-weight: 900;
+  font-size: 2em;
+}
+
+h2 {
+  font-weight: 800;
+  font-variant: small-caps;
+  display: inline-block;
+  width: 100%;
+  margin-top: 0;
+}
+
+a {
+  color: var(--fgcolor);
+  border-bottom: dotted 2px var(--highlow);
+  text-decoration: none;
+}
+
+a[href^="http"] {
+  text-decoration: none;
+  color: var(--high);
+  border: none;
+} 
+
+a[href^="http"]:not(.nodecor)::after {
+  content: '»';
+  color: var(--low);
+} 
+
+a[href^="http"]:not(.nodecor)::before {
+  content: '«';
+  color: var(--low);
+} 
+
+a:hover, .homelink:hover, .nav-link:hover {
+  color: var(--medhigh);
+  font-style: normal;
+}
+
+a.nav-link {
+  color: var(--medlow);
+  border: none;
+}

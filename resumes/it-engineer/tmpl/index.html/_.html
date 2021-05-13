@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang='en-US'>
+<head>
+{{ template "title.html" . }}
+{{ template "meta.html" }}
+{{ template "links.html" }}
+<style>
+@font-face {
+  font-family: SpyAgency;
+  src: url('spyagencyv3.ttf');
+}
+
+* {
+  text-rendering: optimizeLegibility;
+  box-sizing: border-box;
+}
+
+:root {
+  --bgcolor: #222;
+  --fgcolor: #eee;
+  --boardfg: white;
+  --boardbg: black;
+  --high:    #ccc;
+  --medhigh: #aaa;
+  --lowhigh: #888;
+  --highlow: #666;
+  --medlow:  #555;
+  --low:     #444;
+  --lowlow:  #333;
+  --font: 'Fira Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: var(--font);
+  background: var(--bgcolor);
+  color: var(--fgcolor);
+  text-rendering: optimizeLegibility;
+}
+
+main {
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  margin-left: .6rem;
+}
+
+h2 {
+  font-variant: small-caps;
+  font-size: 2rem;
+  line-height: .2rem;
+}
+
+</style>
+
+</head>
+<body>
+<main>
+{{ template "about.html" . }}
+{{ template "mission.html" . }}
+{{ template "experience.html" . }}
+{{ template "projects.html" . }}
+{{ template "education.html" . }}
+{{ template "skills.html" . }}
+{{ template "keywords.html" . }}
+{{ template "languages.html" . }}
+</main>
+</body>
+</html>
