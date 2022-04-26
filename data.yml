@@ -8,8 +8,8 @@ Mission:
 Summary: |
   Professional Trainer and Mentor • Entrepreneur • CTO • Live Streamer •
   Community Builder • Site Reliability and DevOps Engineer • Terminal UI
-  Developer • Linux Advocate • Senior Software Engineer (Go, Perl,
-  Shell, Python, C) • Cloud Native Platform Developer • Presenter
+  Developer • Linux Advocate • Senior Software Engineer (Go, Bash, Perl,
+  POSIX, Python, C) • Cloud Native Platform Developer • Presenter
   • Writer • Autodidact
 
 Contact: 
@@ -74,11 +74,26 @@ Education:
 
 Employment:
 
+- Role:     Kubernetes HPC ML Infrastructure Engineer
+  Entity:   (large multinational, name available upon request)
+  Started:  March 2021
+  Location: Remote (Headquartered in USA)
+  Details:
+  - Created klogin Kubernetes OIDC login tool in Go
+  - Spearheaded centralized management of k8sapp applications
+  - Performed several upgrades of different cloud native applications
+  - Developed custom cloud native applications in bash and Go
+  - Deployed and maintained enterprise JupyterHub in Kubernetes
+  - Migrated legacy Perl monitoring applications to Python and Go
+  - Automated Kubernetes application version checking and reporting
+  - Championed creation of central management API and microservice
+
 - Role:     Founder / Mentor / Developer / CEO
-  Entity:   SkilStak, Inc.
+  Entity:   SKILSTAK (formerly SkilStak, Inc.)
   Started:  May 2013
-  Location: Davidson, North Carolina
-  Details: 
+  Location: Davidson, North Carolina and Online
+  Details:
+  - Created annual Beginner Boost video series for Twitch and YouTube
   - Founded and self-funded corporation to help others learn tech skills
   - Mentored 100s and placed dozens in key schools, internships, jobs
   - Designed and developed autodidactic, project-driven curriculum 
@@ -397,6 +412,20 @@ Employment:
   Location: Salt Lake City, Utah
   Details:
   - Sorted mail and delivered it to the post office 
+
+Projects:
+
+- Name:     Bonzai™ Composite Commander
+  Site:     https://github.com/rwxrob/bonzai
+  Role:     Inventor / Developer / Project Lead
+  Details:
+  - Meticulously manicured monolith and multicall composite Go binaries
+
+- Name:     Parsing Expression Grammar Notation (PEGN)
+  Site:     https://github.com/rwxrob/pegn-spec
+  Role:     Inventor / Developer / Project Lead
+  Details:
+  - Extension of Bryan Ford's amazing Parsing Expression Grammar
 
 Volunteer:
 
